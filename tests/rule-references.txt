@@ -3586,3 +3586,16 @@ https://github.com/pr0xylife/Pikabot/blob/7f7723a74ca325ec54c6e61e076acce9a4b205
 https://www.welivesecurity.com/2019/04/09/oceanlotus-macos-malware-update/
 https://peterjson.medium.com/reproducing-the-proxyshell-pwn2own-exploit-49743a4ea9a1
 https://petrusviet.medium.com/dancing-on-the-architecture-of-vmware-workspace-one-access-eng-ad592ae1b6dd
+https://www.cisco.com/en/US/docs/ios/security/command/reference/sec_a2.pdf
+https://www.virustotal.com/gui/file/602f4ae507fa8de57ada079adff25a6c2a899bd25cd092d0af7e62cdb619c93c/behavior
+https://securityscorecard.com/research/deep-dive-into-alphv-blackcat-ransomware
+https://www.elastic.co/guide/en/security/current/kubernetes-pod-created-with-hostnetwork.html
+https://news.ycombinator.com/item?id=29504755
+https://www.fireeye.com/blog/threat-research/2020/03/apt41-initiates-global-intrusion-campaign-using-multiple-exploits.html
+https://unit42.paloaltonetworks.com/unsigned-dlls/?web_view=true
+https://github.com/redcanaryco/atomic-red-team/blob/02c7d02fe1f1feb0fc7944550408ea8224273994/atomics/T1112/T1112.md#atomic-test-64---disable-remote-desktop-security-settings-through-registry
+https://learn.microsoft.com/en-us/troubleshoot/windows-server/windows-security/kdc-event-16-27-des-encryption-disabled
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/schtasks-create
+https://community.f5.com/t5/technical-forum/icontrolrest-11-5-execute-bash-command/td-p/203029
+https://lab52.io/blog/winter-vivern-all-summer/
+https://support.google.com/a/answer/9261439
